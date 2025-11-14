@@ -24,7 +24,8 @@ It highlights income, expenses, savings, and financial patterns across different
 - Data cleaning, transformation, and modeling  
 - Custom DAX measures for calculations (savings %, expense ratio, etc.)  
 - Interactive visualizations (income groups, savings trends, budgeting challenges)  
-- Storytelling dashboard for financial awareness  
+- Storytelling dashboard for financial awareness
+-  
 
 ---
 
