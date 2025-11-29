@@ -8,7 +8,7 @@ It highlights income, expenses, savings, and financial patterns across different
 ## 📊 Project Overview
 - **Objective:** Understand how people manage income, expenses, and savings.  
 - **Tools Used:** Power BI, DAX, Data Modeling  
-- **Deliverable:** Interactive dashboards with storytelling for financial insights  
+- **Deliverable:** Interactive dashboards with storytelling for financial insights     
 
 ---
 
